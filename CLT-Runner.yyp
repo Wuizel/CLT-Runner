@@ -35,6 +35,7 @@
   },
   "name":"CLT-Runner",
   "resources":[
+    {"id":{"name":"Obj_clt","path":"objects/Obj_clt/Obj_clt.yy",},},
     {"id":{"name":"Obj_hist1","path":"objects/Obj_hist1/Obj_hist1.yy",},},
     {"id":{"name":"Obj_hist2","path":"objects/Obj_hist2/Obj_hist2.yy",},},
     {"id":{"name":"Obj_hist3","path":"objects/Obj_hist3/Obj_hist3.yy",},},
@@ -45,6 +46,7 @@
     {"id":{"name":"rm_hist3","path":"rooms/rm_hist3/rm_hist3.yy",},},
     {"id":{"name":"rm_hist4","path":"rooms/rm_hist4/rm_hist4.yy",},},
     {"id":{"name":"rm_rua","path":"rooms/rm_rua/rm_rua.yy",},},
+    {"id":{"name":"snd_msc_de_fundo","path":"sounds/snd_msc_de_fundo/snd_msc_de_fundo.yy",},},
     {"id":{"name":"spr_batata","path":"sprites/spr_batata/spr_batata.yy",},},
     {"id":{"name":"spr_chocolate","path":"sprites/spr_chocolate/spr_chocolate.yy",},},
     {"id":{"name":"spr_clt","path":"sprites/spr_clt/spr_clt.yy",},},

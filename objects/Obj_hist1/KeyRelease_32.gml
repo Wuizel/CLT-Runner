@@ -1,2 +1,2 @@
 //quando apertar espaço troca pra proxima room
-room_goto_next()
+room_goto_next();
