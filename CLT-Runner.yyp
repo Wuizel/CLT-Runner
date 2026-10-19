@@ -36,6 +36,8 @@
   "name":"CLT-Runner",
   "resources":[
     {"id":{"name":"Obj_clt","path":"objects/Obj_clt/Obj_clt.yy",},},
+    {"id":{"name":"Obj_comidas","path":"objects/Obj_comidas/Obj_comidas.yy",},},
+    {"id":{"name":"Obj_gerador","path":"objects/Obj_gerador/Obj_gerador.yy",},},
     {"id":{"name":"Obj_hist1","path":"objects/Obj_hist1/Obj_hist1.yy",},},
     {"id":{"name":"Obj_hist2","path":"objects/Obj_hist2/Obj_hist2.yy",},},
     {"id":{"name":"Obj_hist3","path":"objects/Obj_hist3/Obj_hist3.yy",},},

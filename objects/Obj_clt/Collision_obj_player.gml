@@ -1,2 +1,2 @@
 //fazendo a room reiniciar
-room_restart()
+room_restart();
