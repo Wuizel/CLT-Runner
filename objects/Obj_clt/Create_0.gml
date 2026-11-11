@@ -1,8 +1,8 @@
 //fazendo a clt escolher onde vai spawnar
-x = choose(-4, 184);
+x = choose(28, 156);
 
-//se ele spawnar com o x igual a -4
-if (x = -4)
+//se ele spawnar com o x igual a 28
+if (x == 28)
 {
 	//ele vai aparecer virado pra esquerda
 	image_xscale = 1;
