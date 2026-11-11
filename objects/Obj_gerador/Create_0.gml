@@ -1,5 +1,6 @@
-//colocando o tempo de spawn da clt e das comidas
-//clt:
-alarm[0] = 100;
-//comidas:
-alarm[1] = 30;
+/// @description Inserir descrição aqui
+// Você pode escrever seu código neste editor
+//Iniciando o alarme do lanche
+alarm[0] = 20;
+//Iniciando o alarme da clt
+alarm[1] = 100;

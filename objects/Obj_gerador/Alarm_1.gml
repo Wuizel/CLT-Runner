@@ -1,5 +1,8 @@
-//fazendo as comidas aparecerem
-instance_create_layer(0, -60, "Instances", Obj_comidas);
+/// @description Inserir descrição aqui
+// Você pode escrever seu código neste editor
+//Criando a clt, a posição x não importa porque ele faz isso no create
+//E a posição Y é negativa para ficar fora da room no começo
+instance_create_layer(0, -60, "instances", Obj_clt);
 
-//reiniciando o timer entre 1 e 3 seg
-alarm[1] = random_range(1,3) * 60;
+//Reiniciando o alarme entre 2 e 8 segundos
+alarm[1] = random_range(2, 8) * 60;
