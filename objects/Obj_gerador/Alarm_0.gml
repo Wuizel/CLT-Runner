@@ -1,8 +1,5 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
-//Criando o lanche, a posição x não importa porque ele faz isso no create
-//E a posição Y é negativa para ficar fora da room no começo
-instance_create_layer(0, -60, "instances", Obj_comidas);
+//fazendo a clt aparecer
+instance_create_layer(0, -36, "Instances", Obj_clt);
 
-//Reiniciando o alarme entre 1 e 4 segundos
-alarm[0] = random_range(1, 4) * 60;
+//reiniciando o timer entre 1 e 6 seg
+alarm[0] = random_range(1,6) * 60;
