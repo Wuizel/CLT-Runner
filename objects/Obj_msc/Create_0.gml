@@ -1,1 +1,1 @@
-audio_play_sound(snd_msc_de_fundo, 0, 100000000);
+audio_play_sound(snd_msc_de_fundo, 0, 0);

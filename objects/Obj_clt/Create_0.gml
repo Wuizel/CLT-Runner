@@ -7,7 +7,7 @@ if (x == 28)
 	//ele vai aparecer virado pra esquerda
 	image_xscale = 1;
 }
-//e se ele spawnar com o x = 184
+//e se ele spawnar com o x = 156
 else
 {
 	//ele vai aparecer virado pra direita
